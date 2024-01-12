@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+__pycache__
+csv_label
+filtered_csv_label
+fixed_csv_label
+fixed_csv_label_ver2
+model_knn.pickle
+knn.ipynb
+semi_train_data
+logs
